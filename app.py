@@ -7,7 +7,7 @@ import os
 app = Flask(__name__)
 
 # API Key for Google Generative AI
-API_KEY = 'AIzaSyBTHPyblMw0qtXYTDpgMmMOhvZuh2MtsRo'
+API_KEY = 'AIzaSyAmooXBesmJl_6rks5_mVyhru6XbDwBzbQ'
 
 # Configure the AI API
 try:
